@@ -26,6 +26,7 @@ body{
 
 a {
 	color: yellow;
+	font-size: 15px
 }
 
 img {
@@ -35,4 +36,16 @@ img {
 
 h3 {
 	color: red;
+}
+
+.disclaimer {
+	font-size: 30px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	float: right;
+	color: red;
+}
+
+.piclink {
+	color: green;
+	font-size: 20px;
 }
