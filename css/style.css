@@ -1,16 +1,15 @@
 
 body{
-	background-color: grey;
 	background-image: url(../images/black.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: white;
+	font-family: "Comic Sans", cursive, sans-serif;
 
 }
 
 .intro {
 	font-size: 15px;
-	font-family: "Comic Sans MS", cursive, sans-serif
 }
 
 .h1 {
@@ -20,7 +19,6 @@ body{
 .boven {
 	font-weight: bold;
 	font-size: 20px;
-	font-family: "Comic Sans MS", cursive, sans-serif;
 	margin-bottom: 50px;
 }
 
@@ -36,12 +34,10 @@ img {
 
 h3 {
 	color: red;
-	font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 .disclaimer {
 	font-size: 30px;
-	font-family: "Comic Sans MS", cursive, sans-serif;
 	float: right;
 	color: red;
 }
